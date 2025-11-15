@@ -8,6 +8,7 @@ PKG_RELEASE:=0
 
 PKG_SOURCE:=$(PKG_NAME)_$(PKG_VERSION).tar.bz2
 PKG_SOURCE_URL:=https://mediaarea.net/download/source/$(PKG_NAME)/$(PKG_VERSION)
+#sha256
 PKG_HASH:=eb237d7d3dca6dc6ba068719420a27de0934a783ccaeb2867562b35af3901e2d
 
 PKG_LICENSE:=Zlib
